@@ -42,6 +42,3 @@ Understanding system administration is crucial for developing software that inte
 
 This project is primarily about configuration and scripting. Ensure that your scripts are executable and follow the provided guidelines.
 
-## Contact
-
-For any questions or discussions related to this project, feel free to reach out via [Your Email](mailto:your_email@example.com).
